@@ -84,7 +84,7 @@ Python Security Tools - Scripts for encryption, hashing, and log parsing.
 
 📫 Let's Connect
 
-LinkedIn: Amir Fadelelsaid
+LinkedIn: amir-fadelelsaid-477453224
 
 GitHub: [https://github.com/Amir6878/Amir6878/blob/main/README.md?plain=1]
 
