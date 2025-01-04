@@ -1,17 +1,21 @@
 Amir Fadelelsaid
 Asset Protection Investigator | Cybersecurity Analyst | SOC Specialist
 
-📍 Boston, MA | Remote Work | Florida Resident
+📍 Boston, MA 
 📧 Contact: Amir.Fadelelsaid@gmail.com
 
 👨‍💻 About Me
 
 I am a Cybersecurity Analyst with expertise in threat detection, incident response, and security operations. Currently working as an Asset Protection Investigator at Abercrombie & Fitch, I focus on fraud prevention, loss mitigation, and corporate investigations. My academic foundation includes:
-Master’s in Cybersecurity & IT Management (Nov 2024–Nov 2025)
+
+Current: Master’s in Cybersecurity & IT Management (Nov 2024–Nov 2025)
+
 Bachelor’s in Criminal Justice (Dec 2022–Jun 2023)
-I leverage my background in security compliance, forensics, and SIEM operations to safeguard organizational assets.
+
+I leverage my background in security compliance, and SIEM operations to safeguard organizational assets.
 
 📚 Certifications
+
 CompTIA CySA+ (Cybersecurity Analyst) (Expires Nov 2027)
 
 CompTIA Security+ (Security Fundamentals) (Expires Jan 2028)
