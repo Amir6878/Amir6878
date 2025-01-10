@@ -20,6 +20,8 @@ CompTIA CySA+ (Cybersecurity Analyst) (Expires Nov 2027)
 
 CompTIA Security+ (Security Fundamentals) (Expires Jan 2028)
 
+CompTIA Network+ (Network Fundamentals) (Expires Jan 2028)
+
 NIST Cybersecurity Framework (CSF)
 
 Cisco Network Security
