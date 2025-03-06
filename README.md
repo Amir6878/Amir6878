@@ -22,6 +22,8 @@ CompTIA Security+ (Security Fundamentals) (Expires Jan 2028)
 
 CompTIA Network+ (Network Fundamentals) (Expires Jan 2028)
 
+Microsoft SC-200 (Security Operations Analyst Associate) (Expires Jan 2026)
+
 NIST Cybersecurity Framework (CSF)
 
 Cisco Network Security
