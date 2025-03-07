@@ -11,7 +11,7 @@ Tools Used: Wazuh, TheHive, Shuffle, SIEM, Email Alerts
 This project implements Security Operations Center (SOC) automation to streamline threat detection, alerting, and response actions using open-source security tools. The architecture integrates Wazuh (SIEM & EDR), TheHive (case management), and Shuffle (SOAR) to create an efficient security workflow.
 
 
-1.🔹 How It Works
+ 1.🔹 How It Works
 
 -Windows 10 Client Wazuh Agent
 
